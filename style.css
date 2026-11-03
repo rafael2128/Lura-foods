@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+
+#linhas{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+
+header{
+    height: 100px;
+    background-color: #F01418;
+}
+
+#nome{
+    position: absolute;
+    left: 350px;
+    top: 25px;
+    font-size: 40px;
+    font-family: "Cinzel", serif;
+   
+}
+
+ul{
+    t
+}
