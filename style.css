@@ -21,13 +21,42 @@ header{
 
 #nome{
     position: absolute;
-    left: 350px;
-    top: 25px;
-    font-size: 40px;
+    left: 200px;
+    top: 15px;
+    font-size: 50px;
     font-family: "Cinzel", serif;
+    color: white;
    
 }
 
 ul{
-    t
+    list-style: none;
+}
+
+#conta{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    right: 120px;
+    top: 20px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+#carrinho{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 34px;
+    top: 25px;
+}
+
+#pesquisa{
+    position: absolute;
+    right: 400px;
+    top:30px    ;
+    width: 20%;
+    height: 50px;
+    border-radius: 10px;
+
 }
