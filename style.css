@@ -28,6 +28,12 @@ header{
    
 }
 
-ul{
-    t
+
+footer{
+   position: relative;
+    background-color: #F01418;
+    height: 80px;
+    width: 100%;
+    bottom: -1400px;
+  
 }
